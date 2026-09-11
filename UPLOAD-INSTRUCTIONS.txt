@@ -1,11 +1,20 @@
-PORTFOLIO V2.2 - PROFILE LAYOUT FIX
+PORTFOLIO V2.4
 
-Fastest update:
-1. Upload and replace ONLY style.css in your GitHub repository.
-2. Commit to main.
-3. Wait briefly for GitHub Pages.
-4. Refresh the live site with Ctrl+F5.
+What changed:
+- Shorter, sharper About text.
+- CAD and 3D printing are now clearly described as personal/hobby interests, not professional-level experience.
+- The generated cyber portrait is used as the social/share preview image.
+- Real photo remains in the About section.
 
-Everything else is unchanged from v2.1.
+FASTEST UPDATE:
+Upload/replace these files in the repository root:
+1. index.html
+2. christoffer-cyber-profile.jpg
 
-The full ZIP is included in case you prefer replacing all files.
+Everything else can remain unchanged from v2.3.
+
+After committing to main:
+- Wait briefly for GitHub Pages.
+- Refresh the site with Ctrl+F5.
+- For a fresh link preview, try:
+  https://christofferbidemark.github.io/?v=24
