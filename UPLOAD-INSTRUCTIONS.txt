@@ -1,13 +1,21 @@
-CHRISTOFFER PORTFOLIO V2
+PORTFOLIO V2.1 - IMAGE PATH FIX
 
-1. Extract this ZIP.
-2. Open your GitHub repository:
-   christofferbidemark/christofferbidemark.github.io
-3. Upload/replace the CONTENTS of this folder in the repository root.
-4. Make sure index.html, style.css and script.js are directly in the root.
-5. Upload the assets folder too.
-6. Commit changes to main.
-7. Wait briefly for GitHub Pages to deploy and refresh:
-   https://christofferbidemark.github.io/
+This version intentionally keeps ALL files in the repository root.
 
-You can delete this UPLOAD-INSTRUCTIONS.txt file from GitHub after uploading if you want.
+Upload/replace these files directly in:
+christofferbidemark/christofferbidemark.github.io
+
+Required files:
+- index.html
+- style.css
+- script.js
+- christoffer-bidemark.jpg
+- google-it-support.jpg
+- graphic-design.jpg
+- xedrix-cybersecurity.jpg
+
+README.md is optional.
+
+After committing to main, wait briefly for GitHub Pages and refresh with Ctrl+F5.
+
+There should be NO extra parent folder around these files.
