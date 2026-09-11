@@ -1,33 +1,43 @@
 # christofferbidemark.github.io
 
-Personlig portfolio för Christoffer Bidemark.
+Personal portfolio for Christoffer Bidemark.
 
-## GitHub Pages
+## Version 2
 
-Repositoryt ska heta exakt:
+This version is intentionally written in English to keep the portfolio useful for both Swedish and international IT opportunities.
 
-`christofferbidemark.github.io`
+### Sections
+- About
+- Experience
+- Projects
+- Certifications & Education
+- Skills
+- Contact
 
-GitHub Pages:
+### Tech
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
+
+### Public certificate previews
+The portfolio contains web-optimized preview images of:
+- Google IT Support Professional Certificate
+- Graphic Design Specialization
+- XeDrix - Cybersecurity and Protection of Digital Assets
+
+Only the public diploma page from the XeDrix document is included. The signature/verification metadata page is intentionally excluded.
+
+## Deploy
+
+Upload the contents of this folder directly to the root of:
+
+`christofferbidemark/christofferbidemark.github.io`
+
+GitHub Pages settings:
 - Source: Deploy from a branch
 - Branch: main
 - Folder: /(root)
 
-Sidan blir tillgänglig på:
+Live URL:
 https://christofferbidemark.github.io/
-
-## Filer
-
-- `index.html` – innehåll och struktur
-- `style.css` – design
-- `script.js` – meny, aktiv navigation och små interaktioner
-- `assets/images/` – lägg profilbild, certifikatbilder och projektbilder här
-
-## Nästa steg
-
-1. Lägg till profilbild.
-2. Lägg in riktig LinkedIn-länk.
-3. Lägg in önskad kontaktmail.
-4. Lägg till länkar till artiklar och projekt.
-5. Lägg in verifieringslänkar/PDF:er för certifikat.
-6. Bygg separata projektsidor vid behov.

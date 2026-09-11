@@ -19,6 +19,7 @@ const observer = new IntersectionObserver(
   entries => {
     entries.forEach(entry => {
       if (!entry.isIntersecting) return;
+
       navLinks.forEach(link => {
         link.classList.toggle(
           'active',
