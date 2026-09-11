@@ -1,20 +1,14 @@
-PORTFOLIO V2.4
+PORTFOLIO V2.5 - LINKEDIN UPDATE
 
-What changed:
-- Shorter, sharper About text.
-- CAD and 3D printing are now clearly described as personal/hobby interests, not professional-level experience.
-- The generated cyber portrait is used as the social/share preview image.
-- Real photo remains in the About section.
+Changes:
+- Added Christoffer's LinkedIn profile.
+- Removed the empty email placeholder.
+- Updated Contact text.
 
 FASTEST UPDATE:
-Upload/replace these files in the repository root:
-1. index.html
-2. christoffer-cyber-profile.jpg
+Replace ONLY index.html in your GitHub repository.
 
-Everything else can remain unchanged from v2.3.
+LinkedIn:
+https://www.linkedin.com/in/christoffer-bidemark-499b792b6/
 
-After committing to main:
-- Wait briefly for GitHub Pages.
-- Refresh the site with Ctrl+F5.
-- For a fresh link preview, try:
-  https://christofferbidemark.github.io/?v=24
+After committing to main, wait briefly for GitHub Pages and refresh with Ctrl+F5.
