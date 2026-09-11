@@ -1,21 +1,11 @@
-PORTFOLIO V2.1 - IMAGE PATH FIX
+PORTFOLIO V2.2 - PROFILE LAYOUT FIX
 
-This version intentionally keeps ALL files in the repository root.
+Fastest update:
+1. Upload and replace ONLY style.css in your GitHub repository.
+2. Commit to main.
+3. Wait briefly for GitHub Pages.
+4. Refresh the live site with Ctrl+F5.
 
-Upload/replace these files directly in:
-christofferbidemark/christofferbidemark.github.io
+Everything else is unchanged from v2.1.
 
-Required files:
-- index.html
-- style.css
-- script.js
-- christoffer-bidemark.jpg
-- google-it-support.jpg
-- graphic-design.jpg
-- xedrix-cybersecurity.jpg
-
-README.md is optional.
-
-After committing to main, wait briefly for GitHub Pages and refresh with Ctrl+F5.
-
-There should be NO extra parent folder around these files.
+The full ZIP is included in case you prefer replacing all files.

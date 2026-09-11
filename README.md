@@ -2,7 +2,7 @@
 
 Personal portfolio for Christoffer Bidemark.
 
-## Version 2
+## Version 2.2
 
 This version is intentionally written in English to keep the portfolio useful for both Swedish and international IT opportunities.
 
@@ -41,3 +41,9 @@ GitHub Pages settings:
 
 Live URL:
 https://christofferbidemark.github.io/
+
+
+### v2.2
+- Reduced and capped profile-photo size.
+- Improved About-section responsiveness.
+- Prevented identity labels from running together.
